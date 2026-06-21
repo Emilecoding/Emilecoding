@@ -15,7 +15,7 @@
 ### About me
 
 I'm a final-year student at **ENSAE Paris** (École Nationale de la Statistique et de l'Administration Économique), specialising in statistics, machine learning and data science.  
-I enjoy bridging rigorous mathematical theory with practical implementations — from Bayesian inference and Monte Carlo methods to adversarial attacks on neural networks.
+I enjoy bridging rigorous mathematical theory with practical implementations and applied research.
 
 ---
 
